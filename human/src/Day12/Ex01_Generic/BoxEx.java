@@ -1,4 +1,4 @@
-package Day12;
+package Day12.Ex01_Generic;
 
 public class BoxEx {
 		
