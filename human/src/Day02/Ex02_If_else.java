@@ -9,7 +9,7 @@ public class Ex02_If_else {
 		System.out.println("숫자를 입력해주세요");
 		Scanner sc = new Scanner(System.in);
 		int input = sc.nextInt();
-		
+		  
 		//입력받은 값이 홀수인지 짝수인지 판단하시오
 		if( input %2 ==1) {
 			System.out.println("홀수입니다");
